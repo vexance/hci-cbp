@@ -8,7 +8,7 @@
         <input name="input_symptoms" type="text" placeholder="Symptoms" />
         
         <br />
-        
+        <br />
         <input name="input_submit" type="submit" value="Check Symptoms" class="w3-button w3-green" />
     </form>
     
