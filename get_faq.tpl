@@ -81,6 +81,12 @@
         </div>
         <br />
 
+        <div class="w3-container w3-margin-left w3-margin-right">
+            <p>Thank you for using the Covid-19 Best Practices web application! Feel free to continue browsing or select 'Home' to return to the learning roadmap.</p>
+        </div>
+        
+        <br />
+
         <div class="w3-container w3-blue-grey">
             <div class="w3-left"><a href="/MythsVsFacts" class="w3-button w3-teal w3-margin">Previous</a></div>
             <div class="w3-right"><a href="/Home" class="w3-button w3-teal w3-margin">Home</a></div>

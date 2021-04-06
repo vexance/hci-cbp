@@ -116,5 +116,5 @@ def get_faq():
 def serve_static(filepath):
     return bottle.static_file(filepath, root='./static/')
 
-#bottle.run(host='localhost', port=80)
-application = bottle.default_app()
+bottle.run(host='localhost', port=80)
+#application = bottle.default_app()
