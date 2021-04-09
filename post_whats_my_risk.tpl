@@ -18,11 +18,6 @@
 
     </div>
 
-    <!-- <div class="w3-container w3-blue-grey">
-        <div class="w3-left"><a href="/StayingConnected" class="w3-button w3-teal w3-margin">Previous</a></div>
-        <div class="w3-right"><a href="/MythsVsFacts" class="w3-button w3-teal w3-margin">Next</a></div>
-    </div> -->
-
 </body>
 
 %include('template_footer.tpl')

@@ -15,11 +15,12 @@ img {
 
         <div class="w3-container">
             <div class="w3-card w3-margin-right w3-margin-left w3-margin-top">
-                <div id="question_one" class="w3-container w3-light-grey" style="cursor: pointer;"><h5>Stay Home</h5></div>
+                <div id="question_one" class="w3-container w3-light-grey" style="cursor: pointer;"><table><tr><td width="40"><img src="./static/homet.png" height="35" width="35"/></td><td><h5><b>Stay Home</b></h5></td></tr></table></div>
                 <div id="answer_one" class="w3-container" hidden="true">
 					<table>
 						<tr>
-							<td width="300"><img src="./static/stayHome.png" tyle="width:300px"/>
+							<td width="300"><img src="./static/stayHome.png" style="width:300px" height="300" width="300"/>
+							</td>
 							</td>
 							<td>    
 								<p>You’re safest in your own home, so avoid going out unless it’s essential. If you need to go out, being outdoors in the fresh air is the second best alternative. The risk of infection increases when you go indoors (other than your home) because the virus spreads from person to person via respiratory droplets when an infected person coughs, sneezes, or speaks. Think about it as “Avoiding the 3 Cs”: Close spaces with poor ventilation, Crowded places with groups of people, and Close-contact settings like one-on-one conversations. </p>
@@ -32,11 +33,11 @@ img {
             </div>
                 
             <div class="w3-card w3-margin-right w3-margin-left w3-margin-top">
-                <div id="question_two" class="w3-container w3-light-grey" style="cursor: pointer;"><h5>Practice Social Distancing</h5></div>
+                <div id="question_two" class="w3-container w3-light-grey" style="cursor: pointer;"><table><tr><td width="40"><img src="./static/socialt.png" height="35" width="35"/></td><td><h5><b>Practice Social Distancing</b></h5></td></tr></table></div>
                 <div id="answer_two" class="w3-container" hidden="true">
 					<table>
 						<tr>
-							<td width="300"><img src="./static/distance.png" tyle="width:300px"/>
+							<td width="300"><img src="./static/distance.png" style="width:300px" height="300" width="300"/>
 							</td>
 							<td>  
 								<p>When you do go out, protect yourself by practicing social distancing. This includes staying at least six feet away from other people. COVID-19 spreads mainly among people who are in close contact (within about 6 feet) for a prolonged period. Since people can spread the virus before they know they are sick, it is important to stay at least 6 feet away from others when possible, even if you — or they — do not have any symptoms. Social distancing is especially important for people who are at higher risk for severe illness from COVID-19.</p>
@@ -49,11 +50,11 @@ img {
             </div>
                 
             <div class="w3-card w3-margin-right w3-margin-left w3-margin-top">
-                <div id="question_three" class="w3-container w3-light-grey" style="cursor: pointer;"><h5>Cover Your Face</h5></div>
+                <div id="question_three" class="w3-container w3-light-grey" style="cursor: pointer;"><table><tr><td width="40"><img src="./static/maskt.png" height="35" width="35"/></td><td><h5><b>Cover Your Face</b></h5></td></tr></table></div>
                 <div id="answer_three"  class="w3-container" hidden="true">
 					<table>
 						<tr>
-							<td width="300"><img src="./static/mask.png" tyle="width:300px"/>
+							<td width="300"><img src="./static/mask.png" style="width:300px" height="300" width="300"/>
 							</td>
 							<td> 
 								<p>Wear a mask or other type of face covering when you are not able to practice safe social distancing, such as when you are at the grocery store, pharmacy, hardware store, or using any form of public transportation. It is important to also wear a mask when you are outside but can’t maintain social distancing from other people not in your household. If you’re out in the open at a park, hiking trail or non-crowded beach, there is no need to wear a mask.</p>
@@ -65,11 +66,11 @@ img {
             </div>
         
             <div class="w3-card w3-margin-right w3-margin-left w3-margin-top">
-                <div id="question_four" class="w3-container w3-light-grey" style="cursor: pointer;"><h5>Hand Hygiene</h5></div>
+                <div id="question_four" class="w3-container w3-light-grey" style="cursor: pointer;"><table><tr><td width="40"><img src="./static/washt.png" height="35" width="35"/></td><td><h5><b>Hand Hygiene</b></h5></td></tr></table></div>
                 <div id="answer_four"  class="w3-container" hidden="true">
 					<table>
 						<tr>
-							<td width="300"><img src="./static/washHands.gif" tyle="width:300px"/>
+							<td width="300"><img src="./static/washHands.gif" style="width:300px" height="300" width="300"/>
 							</td>
 							<td> 
 								<p>The CDC recommends these five steps every time you wash your hands:</p>
@@ -89,11 +90,11 @@ img {
             </div>
 
             <div class="w3-card w3-margin-right w3-margin-left w3-margin-top">
-                <div id="question_five" class="w3-container w3-light-grey" style="cursor: pointer;"><h5>Avoid Touching Your Nose, Eyes, and Mouth</h5></div>
+                <div id="question_five" class="w3-container w3-light-grey" style="cursor: pointer;"><table><tr><td width="40"><img src="./static/noToucht.png" height="35" width="35"/></td><td><h5><b>Avoid Touching Your Nose, Eyes, and Mouth</b></h5></td></tr></table></div>
                 <div id="answer_five"  class="w3-container" hidden="true">
 					<table>
 						<tr>
-							<td width="300"><img src="./static/avoid.png" tyle="width:300px"/>
+							<td width="300"><img src="./static/avoid.png" style="width:300px" height="300" width="300"/>
 							</td>
 							<td> 
 								<p>It’s estimated that people touch their face about 23 times an hour! To help prevent infections, keep your hands away from your nose, eyes, and mouth. Touching the mucous membranes on your face with unwashed hands allows germs that cause respiratory infections like COVID-19 to enter the body. When we touch people who are sick, or touch dirty surfaces, we contaminate our hands with germs, and we can infect ourselves with those germs by touching our face.</p>
@@ -105,11 +106,11 @@ img {
             </div>
 
             <div class="w3-card w3-margin-right w3-margin-left w3-margin-top">
-                <div id="question_six" class="w3-container w3-light-grey" style="cursor: pointer;"><h5>Don’t Go Out and Avoid Contacts If You Have Symptoms</h5></div>
+                <div id="question_six" class="w3-container w3-light-grey" style="cursor: pointer;"><table><tr><td width="40"><img src="./static/noOutt.png" height="35" width="35"/></td><td><h5><b>Don’t Go Out and Avoid Contacts If You Have Symptoms</b></h5></td></tr></table></div>
                 <div id="answer_six"  class="w3-container" hidden="true">
 					<table>
 						<tr>
-							<td width="300"><img src="./static/NoCon.png" tyle="width:300px"/>
+							<td width="300"><img src="./static/NoCon.png" style="width:300px" height="300" width="300"/>
 							</td>
 							<td> 
 							<p>Coping with stress can be a difficult process, but there are recommendations to help manage stress and keep yourself feeling positive. To start, take a break from monitoring news stories involving Covid-19. Constantly hearing about the pandemic may be a major factor that contributes to your stress. Secondly, take care of your body by eating healthy, exercising, and getting adequate sleep. Finding time to unwind and connect (while practicing social distancing) with others to share your thoughts and feelings. If you feel as though stress levels are getting too high, please do not hesitate to reach out to a mental health provider to discuss your situation.</p>
@@ -134,7 +135,7 @@ img {
 <script>
 $(document).ready(function(){
     $('#question_one').click(function(){
-        $('#answer_one').slideToggle();
+        $('#answer_one').slideToggle();		          
     });
     $('#question_two').click(function(){
         $('#answer_two').slideToggle();
